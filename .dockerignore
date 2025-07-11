@@ -1,0 +1,14 @@
+.mvn/wrapper
+gradle/wrapper
+.editorconfig
+build.gradle
+docker-compose.yml
+gradlew
+gradlew.bat
+mvnw
+mvnw.cmd
+settings.gradle
+.github
+.gitattributes
+.gitignore
+.gitpod.yml
